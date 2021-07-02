@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="age">AGE</string>
+    <string name="today_s_date">Today"s Date</string>
+    <string name="your_birthday">Your BirthDay</string>
+    <string name="select_date">Select Date</string>
+</resources>
